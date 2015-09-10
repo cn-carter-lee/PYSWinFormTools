@@ -1,0 +1,9 @@
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\bin\Debug\UW.Category.Test.exe
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\bin\Debug\UW.Category.Test.pdb
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.frmMain.resources
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.exe
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.pdb
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\bin\Debug\UW.Category.Test.exe.config
+D:\Dev Test\PYSWinFormTools\UW.Category.Test\obj\x86\Debug\UW.Category.Test.csprojResolveAssemblyReference.cache

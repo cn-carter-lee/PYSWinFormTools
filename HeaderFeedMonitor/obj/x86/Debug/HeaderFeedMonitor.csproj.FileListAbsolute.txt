@@ -1,0 +1,7 @@
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\bin\Debug\HeaderFeedMonitor.exe
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\bin\Debug\HeaderFeedMonitor.pdb
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\obj\x86\Debug\HeaderFeedMonitor.frmMain.resources
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\obj\x86\Debug\HeaderFeedMonitor.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\obj\x86\Debug\HeaderFeedMonitor.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\obj\x86\Debug\HeaderFeedMonitor.exe
+D:\Dev Test\PYSWinFormTools\HeaderFeedMonitor\obj\x86\Debug\HeaderFeedMonitor.pdb

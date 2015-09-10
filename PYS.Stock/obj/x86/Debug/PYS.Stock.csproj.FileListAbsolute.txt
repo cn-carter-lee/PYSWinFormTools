@@ -1,0 +1,11 @@
+D:\Dev Test\PYSWinFormTools\PYS.Stock\bin\Debug\PYS.Stock.exe
+D:\Dev Test\PYSWinFormTools\PYS.Stock\bin\Debug\PYS.Stock.pdb
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.exe
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.pdb
+D:\Dev Test\PYSWinFormTools\PYS.Stock\bin\Debug\PYS.Stock.exe.config
+D:\Dev Test\PYSWinFormTools\PYS.Stock\bin\Debug\XO.Registry.Entities.dll
+D:\Dev Test\PYSWinFormTools\PYS.Stock\bin\Debug\XO.Registry.SDK.dll
+D:\Dev Test\PYSWinFormTools\PYS.Stock\obj\x86\Debug\PYS.Stock.csprojResolveAssemblyReference.cache

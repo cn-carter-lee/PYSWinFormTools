@@ -1,0 +1,12 @@
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\LocalAreaNetwork_Setting.frmMain.resources
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\LocalAreaNetwork_Setting.Properties.Resources.resources
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\LocalAreaNetwork Setting.csproj.GenerateResource.Cache
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\LocalAreaNetwork Setting.csprojResolveAssemblyReference.cache
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\bin\Debug\Proxy.exe.config
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\bin\Debug\Proxy.exe
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\bin\Debug\Proxy.pdb
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.exe
+D:\Dev Test\LocalAreaNetwork Setting\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.pdb
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\bin\Debug\Proxy.exe.config
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.exe
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.pdb

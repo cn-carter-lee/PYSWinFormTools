@@ -1,0 +1,7 @@
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\bin\Debug\PYS.SoftwareStarter.exe
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\bin\Debug\PYS.SoftwareStarter.pdb
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\obj\x86\Debug\PYS.SoftwareStarter.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\obj\x86\Debug\PYS.SoftwareStarter.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\obj\x86\Debug\PYS.SoftwareStarter.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\obj\x86\Debug\PYS.SoftwareStarter.exe
+D:\Dev Test\PYSWinFormTools\PYS.SoftwareStarter\obj\x86\Debug\PYS.SoftwareStarter.pdb

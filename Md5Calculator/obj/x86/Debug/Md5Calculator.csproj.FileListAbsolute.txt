@@ -1,0 +1,9 @@
+D:\Dev Test\PYSWinFormTools\Md5Calculator\bin\Debug\Md5Calculator.exe
+D:\Dev Test\PYSWinFormTools\Md5Calculator\bin\Debug\Md5Calculator.pdb
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.frmMain.resources
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.exe
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.pdb
+D:\Dev Test\PYSWinFormTools\Md5Calculator\bin\Debug\Md5Calculator.exe.config
+D:\Dev Test\PYSWinFormTools\Md5Calculator\obj\x86\Debug\Md5Calculator.csprojResolveAssemblyReference.cache

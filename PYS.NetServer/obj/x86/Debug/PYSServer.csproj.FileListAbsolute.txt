@@ -1,0 +1,10 @@
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYSServer\bin\Debug\PYSServer.exe
+D:\Dev Test\PYSWinFormTools\PYSServer\bin\Debug\PYSServer.pdb
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.exe
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.pdb
+D:\Dev Test\PYSWinFormTools\PYSServer\bin\Debug\PYS.Entity.dll
+D:\Dev Test\PYSWinFormTools\PYSServer\bin\Debug\PYS.Entity.pdb
+D:\Dev Test\PYSWinFormTools\PYSServer\obj\x86\Debug\PYSServer.csprojResolveAssemblyReference.cache

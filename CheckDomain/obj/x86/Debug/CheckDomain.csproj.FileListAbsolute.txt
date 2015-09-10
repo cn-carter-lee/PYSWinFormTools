@@ -1,0 +1,9 @@
+D:\Dev Test\PYSWinFormTools\CheckDomain\bin\Debug\CheckDomain.exe
+D:\Dev Test\PYSWinFormTools\CheckDomain\bin\Debug\CheckDomain.pdb
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.Form1.resources
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.exe
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.pdb
+D:\Dev Test\PYSWinFormTools\CheckDomain\bin\Debug\domain.txt
+D:\Dev Test\PYSWinFormTools\CheckDomain\obj\x86\Debug\CheckDomain.csprojResolveAssemblyReference.cache

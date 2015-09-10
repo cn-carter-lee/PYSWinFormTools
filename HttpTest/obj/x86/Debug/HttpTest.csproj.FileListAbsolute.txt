@@ -1,0 +1,6 @@
+D:\Dev Test\PYSWinFormTools\HttpTest\bin\Debug\HttpTest.exe
+D:\Dev Test\PYSWinFormTools\HttpTest\bin\Debug\HttpTest.pdb
+D:\Dev Test\PYSWinFormTools\HttpTest\obj\x86\Debug\HttpTest.exe
+D:\Dev Test\PYSWinFormTools\HttpTest\obj\x86\Debug\HttpTest.pdb
+D:\Dev Test\PYSWinFormTools\HttpTest\bin\Debug\HttpTest.exe.config
+D:\Dev Test\PYSWinFormTools\HttpTest\obj\x86\Debug\HttpTest.csprojResolveAssemblyReference.cache

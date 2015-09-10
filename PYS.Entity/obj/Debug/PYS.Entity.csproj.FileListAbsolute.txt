@@ -1,0 +1,5 @@
+D:\Dev Test\PYSWinFormTools\PYS.Entity\bin\Debug\PYS.Entity.dll
+D:\Dev Test\PYSWinFormTools\PYS.Entity\bin\Debug\PYS.Entity.pdb
+D:\Dev Test\PYSWinFormTools\PYS.Entity\obj\Debug\PYS.Entity.dll
+D:\Dev Test\PYSWinFormTools\PYS.Entity\obj\Debug\PYS.Entity.pdb
+D:\Dev Test\PYSWinFormTools\PYS.Entity\obj\Debug\PYS.Entity.csprojResolveAssemblyReference.cache

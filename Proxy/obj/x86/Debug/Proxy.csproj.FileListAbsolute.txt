@@ -1,0 +1,19 @@
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\bin\Debug\Proxy.exe.config
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\bin\Debug\Proxy.exe
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\bin\Debug\Proxy.pdb
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\LocalAreaNetwork_Setting.frmMain.resources
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.exe
+D:\Dev Test\PYSWinFormTools\LocalAreaNetwork Setting\obj\x86\Debug\Proxy.pdb
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\Proxy.exe.config
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\Proxy.exe
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\Proxy.pdb
+D:\Dev Test\PYSWinFormTools\Proxy\obj\x86\Debug\LocalAreaNetwork_Setting.frmMain.resources
+D:\Dev Test\PYSWinFormTools\Proxy\obj\x86\Debug\Proxy.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\Proxy\obj\x86\Debug\Proxy.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\Proxy\obj\x86\Debug\Proxy.exe
+D:\Dev Test\PYSWinFormTools\Proxy\obj\x86\Debug\Proxy.pdb
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\Resources\IconDisEnabed.ico
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\Resources\IconEnabed.ico
+D:\Dev Test\PYSWinFormTools\Proxy\bin\Debug\IconDisEnabed.ico

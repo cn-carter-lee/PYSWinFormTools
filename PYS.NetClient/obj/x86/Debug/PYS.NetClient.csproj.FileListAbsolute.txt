@@ -1,0 +1,7 @@
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\bin\Debug\PYSNeClient.exe
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\bin\Debug\PYSNeClient.pdb
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\obj\x86\Debug\PYSNeClient.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\obj\x86\Debug\PYSNeClient.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\obj\x86\Debug\PYS.NetClient.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\obj\x86\Debug\PYSNeClient.exe
+D:\Dev Test\PYSWinFormTools\PYS.NetClient\obj\x86\Debug\PYSNeClient.pdb

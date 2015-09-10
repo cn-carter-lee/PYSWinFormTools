@@ -1,0 +1,12 @@
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\PYS.MemCached.exe
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\PYS.MemCached.pdb
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.exe
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.pdb
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\PYS.MemCached.exe.config
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\obj\x86\Debug\PYS.MemCached.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\Enyim.Caching.dll
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\Enyim.Caching.pdb
+D:\Dev Test\PYSWinFormTools\PYS.MemCached\bin\Debug\Enyim.Caching.xml

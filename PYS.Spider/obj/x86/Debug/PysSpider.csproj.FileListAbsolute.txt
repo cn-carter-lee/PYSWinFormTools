@@ -1,0 +1,7 @@
+D:\Dev Test\PYSWinFormTools\PysSpider\bin\Debug\PysSpider.exe
+D:\Dev Test\PYSWinFormTools\PysSpider\bin\Debug\PysSpider.pdb
+D:\Dev Test\PYSWinFormTools\PysSpider\obj\x86\Debug\PysSpider.frmMain.resources
+D:\Dev Test\PYSWinFormTools\PysSpider\obj\x86\Debug\PysSpider.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\PysSpider\obj\x86\Debug\PysSpider.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PysSpider\obj\x86\Debug\PysSpider.exe
+D:\Dev Test\PYSWinFormTools\PysSpider\obj\x86\Debug\PysSpider.pdb

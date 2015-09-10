@@ -1,0 +1,44 @@
+﻿Installing assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Installing service PYSService...
+Service PYSService has been successfully installed.
+Creating EventLog source PYSService in log Application...
+Committing assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Uninstalling assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Removing EventLog source PYSService.
+Service PYSService is being removed from the system...
+Service PYSService was successfully removed from the system.
+Attempt to stop service PYSService.
+Installing assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Installing service PYSService...
+Service PYSService has been successfully installed.
+Creating EventLog source PYSService in log Application...
+Committing assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Uninstalling assembly 'D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.InstallLog
+   assemblypath = D:\Dev Test\PYSWinFormTools\PYSWindowsService\bin\Debug\PYSWindowsService.exe
+Removing EventLog source PYSService.
+Service PYSService is being removed from the system...
+Service PYSService was successfully removed from the system.
+Attempt to stop service PYSService.

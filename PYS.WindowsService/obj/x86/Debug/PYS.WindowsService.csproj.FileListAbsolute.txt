@@ -1,0 +1,8 @@
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\bin\Debug\PYSWindowsService.exe
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\bin\Debug\PYSWindowsService.pdb
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYSWindowsService.ProjectInstaller.resources
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYSWindowsService.PYSService.resources
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYS.WindowsService.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYSWindowsService.exe
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYSWindowsService.pdb
+D:\Dev Test\PYSWinFormTools\PYS.WindowsService\obj\x86\Debug\PYS.WindowsService.csprojResolveAssemblyReference.cache

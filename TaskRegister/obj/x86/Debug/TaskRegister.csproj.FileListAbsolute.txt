@@ -1,0 +1,11 @@
+D:\Dev Test\PYSWinFormTools\TaskRegister\bin\Debug\TaskRegister.exe.config
+D:\Dev Test\PYSWinFormTools\TaskRegister\bin\Debug\TaskRegister.exe
+D:\Dev Test\PYSWinFormTools\TaskRegister\bin\Debug\TaskRegister.pdb
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.frmHelp.resources
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.frmMain.resources
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.Properties.Resources.resources
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.csproj.GenerateResource.Cache
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.exe
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.pdb
+D:\Dev Test\PYSWinFormTools\TaskRegister\obj\x86\Debug\TaskRegister.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSWinFormTools\TaskRegister\bin\Debug\XO.Registry.Entities.dll
